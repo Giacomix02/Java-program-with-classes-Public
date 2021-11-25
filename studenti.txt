@@ -1,0 +1,6 @@
+mario,brogio,informatica,143144
+giacomo,paolocci,informatica,124315
+luigi,rossi,matematica,594857
+giuseppe,conte,matematica,145789
+francesca,buccin,matematica,456489
+esterina,coino,biologia,666666
