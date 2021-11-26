@@ -1,5 +1,3 @@
-package nostro;
-
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -26,6 +24,9 @@ public class EsercizioStudenti {
         
         for(int i = 0; i<righeAlunni.length; i++){
             String[] riga = righeAlunni[i].split(","); //[nome,cognome,facolta,id]
+            //System.out.println(riga[3].length());
+            //System.out.println(riga[3].charAt(6));
+            riga[3]=riga[3].trim();
             studenti[i] = new Studente(riga[0],riga[1],riga[2],Integer.parseInt(riga[3]));
         }
 

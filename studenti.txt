@@ -4,4 +4,4 @@ luigi,rossi,matematica,594857
 giuseppe,conte,matematica,145789
 francesca,buccin,matematica,456489
 esterina,coino,biologia,666666
-michela,lorusso,fisica,785665
+michela,mannaia,fisica,785665
